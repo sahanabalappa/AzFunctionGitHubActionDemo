@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "ExternalGit",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "PROJECT": "afun95/demos/functionapp-demo",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=serverlessdemostg3xvjp;AccountKey=3tp1Pa/7YA91hCI6/oqHbkUR6A4UOSjSj+Tho/sr5LRwO6pV3qqzVCsVA0wawJnNr5ZXZzJxTnBtx/Aao0YGDA==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=serverlessdemostg3xvjp;AccountKey=3tp1Pa/7YA91hCI6/oqHbkUR6A4UOSjSj+Tho/sr5LRwO6pV3qqzVCsVA0wawJnNr5ZXZzJxTnBtx/Aao0YGDA==",
+    "WEBSITE_CONTENTSHARE": "finalserverlessdemo3xvjp",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "finalserverlessdemo3xvjp",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=serverlessdemostg3xvjp;AccountKey=3tp1Pa/7YA91hCI6/oqHbkUR6A4UOSjSj+Tho/sr5LRwO6pV3qqzVCsVA0wawJnNr5ZXZzJxTnBtx/Aao0YGDA=="
+  }
+}
